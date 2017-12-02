@@ -3,7 +3,7 @@ export const commonParams = {
   g_tk: 5381,
   inCharset: 'utf-8',
   outCharset: 'utf-8',
-  format: 'json'
+  format: 'jsonp'
 }
 export const options = {
   param: 'jsonpCallback'

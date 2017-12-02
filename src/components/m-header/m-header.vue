@@ -30,6 +30,9 @@
       height: 32px
       margin-right: 9px
       bg-image('logo')
+      -webkit-border-radius: 50%
+      -moz-border-radius: 50%
+      border-radius: 50%
       background-size: 30px 32px
     .text
       display: inline-block
